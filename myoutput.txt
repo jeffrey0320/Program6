@@ -1,0 +1,268 @@
+				Clients in the Database
+
+Name                       SSN      Account Number   Account Type      Balance
+Noel        Eaton       287481077       439665           Checking   $  4119.46
+Sylvia      Bennett     261340202       148717           Checking   $  8705.46
+Lincoln     Nichols     164663933       685344            Savings   $  4084.03
+Dana        Rich        453968735       910547           Checking   $    94.87
+Hillary     Sharp       985076584       800586                 CD   $  9856.28
+Aldo        Wu          103491404       598285           Checking   $   143.34
+Joaquin     Maldonado   382082923       463037            Savings   $ 12432.34
+India       Carter      188336825       136813                 CD   $ 24500.00
+Natalee     Marshall    510041535       763316                 CD   $ 43134.43
+Kayden      Obrien      672648174       900247            Savings   $   768.78
+Dwayne      Mayo        177130979       883012            Savings   $   124.35
+Ashtyn      Galvan      270591995       251901           Checking   $   215.97
+Aubree      Mckenzie    413975695       550259            Savings   $  1253.57
+Aliya       Cabrera     542183355       920805                 CD   $  6563.45
+Noel        Eaton       287481077       933925            Savings   $ 10150.00
+Jeffrey     Frey        454668603       598265           Checking   $ 95436.67
+Marely      Dodson      123495983       972222           Checking   $    54.98
+Emiliano    Flores      831666439       320978           Checking   $     0.00
+
+Total amount in all Savings Accounts: $28813.07
+Total amount in all Checking Accounts: $108770.75
+Total amount in all CD Accounts: $84054.16
+Total amount in all Accounts: $221637.98
+
+Transaction type: Balance Inquiry
+Date of Transaction: Wed Nov 27 15:51:48 EST 2019
+Current Balance: $4119.46
+
+Transaction type: Deposit
+Date of Transaction: Wed Nov 27 15:51:49 EST 2019
+Previous Balance: $4119.46
+Current Balance: $4319.46
+
+Transaction type: Deposit
+Date of Transaction: Wed Nov 27 15:51:49 EST 2019
+Previous Balance: $124.35
+Current Balance: $724.35
+
+Transaction type: Deposit
+Date of Transaction: Wed Nov 27 15:51:49 EST 2019
+Previous Balance: $6563.45
+Current Balance: $11563.45
+New maturity date: Fri Nov 27 15:51:49 EST 2020
+
+Transaction type: Withdrawal
+Date of Transaction: Wed Nov 27 15:51:49 EST 2019
+Previous Balance: $4319.46
+Current Balance: $319.46
+
+Transaction Requested: Account Info
+Name: Noel	Eaton
+Social secruity number: 287481077
+Account number: 439665
+Account type: Checking
+Account Balance: $319.46
+
+Transaction Requested: Account Info
+Name: Noel	Eaton
+Social secruity number: 287481077
+Account number: 933925
+Account type: Savings
+Account Balance: $10150.00
+
+Transaction Requested: New Account
+Transaction Date: Wed Nov 27 15:51:49 EST 2019
+Account number 543759 has been created.
+Name: Manuel	Julia
+Social secruity number: 159807200
+Account number: 543759
+Account type: Checking
+Account Balance: $0.00
+
+Transaction Requested: New Account
+Transaction Date: Wed Nov 27 15:51:49 EST 2019
+Account number 701172 has been created.
+Name: Jessie	Mcgee
+Social secruity number: 423780709
+Account number: 701172
+Account type: Savings
+Account Balance: $0.00
+
+Transaction Requested: New Account
+Transaction Date: Wed Nov 27 15:51:49 EST 2019
+Account number 233877 has been created.
+Name: Terrence	Kim
+Social secruity number: 552174522
+Account number: 233877
+Account type: Checking
+Account Balance: $0.00
+
+Transaction type: Deposit
+Date of Transaction: Wed Nov 27 15:51:49 EST 2019
+Previous Balance: $0.00
+Current Balance: $5123.00
+
+Transaction type: Close Account
+Date of Transaction: Wed Nov 27 15:51:49 EST 2019
+Error: Account cant be close, Withdraw first.
+
+Transaction type: Withdrawal
+Date of Transaction: Wed Nov 27 15:51:49 EST 2019
+Previous Balance: $768.78
+Current Balance: $0.00
+
+Transaction Requested: Close Account
+Transaction Date: Wed Nov 27 15:51:49 EST 2019
+Account has been closed.
+
+Transaction type: Balance Inquiry
+Date of Transaction: Wed Nov 27 15:51:49 EST 2019
+Error: Account is closed.
+
+Transaction type: Reopen Account
+Date of Transaction: Wed Nov 27 15:51:49 EST 2019
+Error: Account is active.
+
+Transaction Requested: Reopen Account
+Transaction Date: Wed Nov 27 15:51:49 EST 2019
+Account has been reopened.
+
+Transaction type: Delete an Account
+Date of Transaction: Wed Nov 27 15:51:49 EST 2019
+Error: Account has a balance, Withdraw your balance and try again.
+
+Transaction type: Balance Inquiry
+Date of Transaction: Wed Nov 27 15:51:49 EST 2019
+Current Balance: $5123.00
+
+Transaction type: Withdrawal
+Date of Transaction: Wed Nov 27 15:51:49 EST 2019
+Previous Balance: $5123.00
+Current Balance: $0.00
+
+Transaction Requested: Delete an Account
+Transaction Date: Wed Nov 27 15:51:49 EST 2019
+Account 320978 has been deleted.
+
+Transaction type: Delete an Account
+Date of Transaction: Wed Nov 27 15:51:49 EST 2019
+Error: Account has a balance, Withdraw your balance and try again.
+
+Transaction type: Delete an Account
+Date of Transaction: Wed Nov 27 15:51:49 EST 2019
+Error: Account number doesn't exist
+
+Transaction type: Clear a check
+Date of Transaction: Wed Nov 27 15:51:49 EST 2019
+Error: The date on the check is more than 6 months ago.
+
+Transaction type: Clear a check
+Date of Transaction: Wed Nov 27 15:51:49 EST 2019
+Error: Account is not Checking
+
+Transaction type: Clear a check
+Date of Transaction: Wed Nov 27 15:51:49 EST 2019
+Previous Balance: $95436.67
+Current Balance: $95236.67
+
+Transaction type: Clear a check
+Date of Transaction: Wed Nov 27 15:51:49 EST 2019
+Previous Balance: $143.34
+Current Balance: $43.34
+
+Transaction type: Close Account
+Date of Transaction: Wed Nov 27 15:51:49 EST 2019
+Error: Account cant be close, Withdraw first.
+
+Transaction type: Withdrawal
+Date of Transaction: Wed Nov 27 15:51:49 EST 2019
+Error: Balance has insufficient funds.
+
+Transaction type: Close Account
+Date of Transaction: Wed Nov 27 15:51:49 EST 2019
+Error: Account cant be close, Withdraw first.
+
+Transaction type: Balance Inquiry
+Date of Transaction: Wed Nov 27 15:51:49 EST 2019
+Current Balance: $319.46
+
+Transaction type: Reopen Account
+Date of Transaction: Wed Nov 27 15:51:49 EST 2019
+Error: Account is active.
+
+Transaction Requested: Transaction History
+Name: Noel	Eaton
+Social secruity number: 287481077
+Account number: 439665
+Account type: Checking
+Account Balance: $319.46
+
+Transaction type: Balance Inquiry
+Date of Transaction: Wed Nov 27 15:51:48 EST 2019
+Current Balance: $4119.46
+
+Transaction type: Deposit
+Date of Transaction: Wed Nov 27 15:51:49 EST 2019
+Previous Balance: $4119.46
+Current Balance: $4319.46
+
+Transaction type: Withdrawal
+Date of Transaction: Wed Nov 27 15:51:49 EST 2019
+Previous Balance: $4319.46
+Current Balance: $319.46
+
+Transaction type: Reopen Account
+Date of Transaction: Wed Nov 27 15:51:49 EST 2019
+Error: Account is active.
+
+Transaction type: Clear a check
+Date of Transaction: Wed Nov 27 15:51:49 EST 2019
+Error: The date on the check is more than 6 months ago.
+
+Transaction type: Withdrawal
+Date of Transaction: Wed Nov 27 15:51:49 EST 2019
+Error: Balance has insufficient funds.
+
+Transaction type: Balance Inquiry
+Date of Transaction: Wed Nov 27 15:51:49 EST 2019
+Current Balance: $319.46
+
+Transaction type: Reopen Account
+Date of Transaction: Wed Nov 27 15:51:49 EST 2019
+Error: Account is active.
+
+End of Transaction History.
+
+Transaction type: Deposit
+Date of Transaction: Wed Nov 27 15:51:49 EST 2019
+Previous Balance: $0.00
+Current Balance: $2000.00
+
+Transaction type: Deposit
+Date of Transaction: Wed Nov 27 15:51:49 EST 2019
+Previous Balance: $0.00
+Current Balance: $50000.00
+
+				Clients in the Database
+
+Name                       SSN      Account Number   Account Type      Balance
+Noel        Eaton       287481077       439665           Checking   $   319.46
+Sylvia      Bennett     261340202       148717           Checking   $  8705.46
+Lincoln     Nichols     164663933       685344            Savings   $  4084.03
+Dana        Rich        453968735       910547           Checking   $    94.87
+Hillary     Sharp       985076584       800586                 CD   $  9856.28
+Aldo        Wu          103491404       598285           Checking   $    43.34
+Joaquin     Maldonado   382082923       463037            Savings   $ 12432.34
+India       Carter      188336825       136813                 CD   $ 24500.00
+Natalee     Marshall    510041535       763316                 CD   $ 43134.43
+Kayden      Obrien      672648174       900247            Savings   $     0.00
+Dwayne      Mayo        177130979       883012            Savings   $   724.35
+Ashtyn      Galvan      270591995       251901           Checking   $   215.97
+Aubree      Mckenzie    413975695       550259            Savings   $  1253.57
+Aliya       Cabrera     542183355       920805                 CD   $ 11563.45
+Noel        Eaton       287481077       933925            Savings   $ 10150.00
+Jeffrey     Frey        454668603       598265           Checking   $ 95236.67
+Marely      Dodson      123495983       972222           Checking   $    54.98
+Manuel      Julia       159807200       543759           Checking   $ 50000.00
+Jessie      Mcgee       423780709       701172            Savings   $     0.00
+Terrence    Kim         552174522       233877           Checking   $  2000.00
+
+Total amount in all Savings Accounts: $28644.29
+Total amount in all Checking Accounts: $156670.75
+Total amount in all CD Accounts: $89054.16
+Total amount in all Accounts: $274369.20
+
